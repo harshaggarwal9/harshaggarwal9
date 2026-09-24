@@ -8,14 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=105&lines=Building+full-stack+products+%26+intelligent+systems+%F0%9F%9A%80;FastAPI+%7C+Agentic+AI+%7C+RAG+%7C+System+Design;Build+%E2%86%92+Debug+%E2%86%92+Understand+%E2%86%92+Improve" />
 
-<br><br>
-
-
-
-<br><br>
-
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%" />
 
@@ -262,23 +254,23 @@ Cloud Architecture
         ┌──────────────┐
         │    THEORY    │
         └──────┬───────┘
-               ↓
+        ↓
         ┌──────────────┐
         │IMPLEMENTATION│
         └──────┬───────┘
-               ↓
+        ↓
         ┌──────────────┐
         │   DEBUGGING  │
         └──────┬───────┘
-               ↓
+        ↓
         ┌──────────────┐
         │ EXPERIMENT   │
         └──────┬───────┘
-             ↓
+        ↓
         ┌──────────────┐
         │UNDERSTANDING │
         └──────┬───────┘
-             ↓
+        ↓
         ┌──────────────┐
         │ BETTER CODE  │
         └──────────────┘
