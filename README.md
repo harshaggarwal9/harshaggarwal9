@@ -10,21 +10,10 @@
 
 <br><br>
 
-<a href="https://github.com/harshaggarwal9">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
-<a href="https://www.linkedin.com/in/harsh-aggarwal-6aa4a8320/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:harshaggarwal935@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=harshaggarwal9&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 
 <br><br>
 
@@ -38,7 +27,7 @@
 
 <div align="center">
 
-### Hi, I'm Harsh 👋
+### Hi, I'm Harsh 
 
 I'm a **Full Stack Developer & AI enthusiast** from **NIT Jaipur**.
 
@@ -285,11 +274,11 @@ Cloud Architecture
         ┌──────────────┐
         │ EXPERIMENT   │
         └──────┬───────┘
-               ↓
+             ↓
         ┌──────────────┐
         │UNDERSTANDING │
         └──────┬───────┘
-               ↓
+             ↓
         ┌──────────────┐
         │ BETTER CODE  │
         └──────────────┘
