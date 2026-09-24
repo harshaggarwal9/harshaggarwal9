@@ -2,9 +2,9 @@
 
 <!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:312E81,70:7C3AED,100:06B6D4&height=280&section=header&text=HARSH%20AGGARWAL&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Backend%20%7C%20AI%2FLLM%20Systems%20%7C%20ECE%20%40%20MNIT%20Jaipur&descAlignY=53&descSize=20&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:312E81,70:7C3AED,100:06B6D4&height=280&section=header&text=HARSH%20AGGARWAL&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Full%20Stack%20%7C%20AI%2FLLM%20Systems%20%7C%20NIT%20Jaipur&descAlignY=53&descSize=20&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+scalable+backend+%26+AI+systems+%F0%9F%9A%80;FastAPI+%7C+Agentic+AI+%7C+RAG+%7C+Distributed+Systems;Build+%E2%86%92+Debug+%E2%86%92+Understand+%E2%86%92+Improve" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+full-stack+products+%26+AI+systems+%F0%9F%9A%80;FastAPI+%7C+Agentic+AI+%7C+RAG+%7C+System+Design;Build+%E2%86%92+Debug+%E2%86%92+Understand+%E2%86%92+Improve" />
 
 <br>
 
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/harsh-aggarwal">
+<a href="https://www.linkedin.com/in/harsh-aggarwal-6aa4a8320/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -28,54 +28,21 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-
-<td width="58%" valign="top">
+<div align="center">
 
 ### Hi, I'm Harsh 👋
 
-I'm a **B.Tech Electronics & Communication Engineering** student at **MNIT Jaipur**, graduating in **2027**.
+I'm a **Full Stack Developer & AI enthusiast** from **NIT Jaipur**.
 
 I enjoy building systems at the intersection of:
 
-- ⚙️ Backend Engineering
-- 🤖 Agentic AI & LLM Applications
-- 🧠 System Design
-- 🔌 APIs & Real-Time Systems
-- ☁️ Cloud & DevOps
+**Full Stack Development** • **Agentic AI** • **LLM Applications** • **System Design** • **Cloud**
 
-I've worked on **FastAPI microservices, Redis caching, CI/CD pipelines, RAG systems, WebSockets, JWT authentication, payment APIs, and multi-agent AI architectures**.
+I've worked with **FastAPI, React, Redis, Docker, AWS, RAG, WebSockets, JWT, PostgreSQL, and multi-agent AI architectures**.
 
-My goal is to build software that is not only functional, but also **scalable, observable, and understandable**.
+I like building things, understanding how they work, and continuously improving them.
 
-</td>
-
-<td width="42%" valign="top">
-
-### ⚡ Quick Facts
-
-🎓 **MNIT Jaipur**  
-ECE • `2023 — 2027`
-
-📊 **CGPA:** `7.92`
-
-🧩 **DSA:** `600+ Problems`
-
-🤖 **Focus:** AI / LLM Systems
-
-⚙️ **Backend:** FastAPI
-
-☁️ **Cloud:** AWS + Docker
-
-🛠️ **CI/CD:** GitHub Actions
-
-📡 **Real-Time:** WebSockets
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -89,6 +56,7 @@ ECE • `2023 — 2027`
 <td width="25%" valign="top" align="center">
 
 ### 🤖
+
 ### AI Systems
 
 Agentic AI  
@@ -102,12 +70,13 @@ Prompt Engineering
 <td width="25%" valign="top" align="center">
 
 ### ⚙️
-### Backend
 
+### Full Stack
+
+React  
 FastAPI  
 REST APIs  
 Microservices  
-Redis  
 WebSockets  
 JWT
 
@@ -116,6 +85,7 @@ JWT
 <td width="25%" valign="top" align="center">
 
 ### ☁️
+
 ### Cloud
 
 AWS  
@@ -129,6 +99,7 @@ Deployment
 <td width="25%" valign="top" align="center">
 
 ### 🧠
+
 ### Core CS
 
 DSA  
@@ -163,8 +134,9 @@ System Design
 
 <br>
 
-### Backend & APIs
+### Full Stack & APIs
 
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=serverfault&logoColor=white" />
@@ -200,239 +172,6 @@ System Design
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
-<br>
-
-### Frontend
-
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🔹 Autios
-
-### Industrial Automation System
-
-A **multi-agent, event-driven industrial automation system** combining FastAPI, PostgreSQL and Gemini API.
-
-**Architecture**
-
-```text
-User
- ↓
-FastAPI Task API
- ↓
-Manager Agent
- ↓
-Operator Agents
- ↓
-Event Log
- ↓
-Subscription Engine
- ↓
-Digital Twin
- ↓
-Data Observer
- ↓
-Rule Engine
-```
-
-**Tech**
-
-`Python` `FastAPI` `PostgreSQL` `Gemini API`
-
-**Core concepts**
-
-- Multi-Agent Architecture
-- Event-Driven Design
-- Digital Twin
-- Semantic Events
-- Observe → Reason → Act
-
-<br>
-
-<a href="https://github.com/harshaggarwal9?tab=repositories">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🔹 Stocky
-
-### Multi-Agent AI Trading Simulator
-
-A multi-agent trading simulator orchestrated with **LangGraph**, using specialized AI agents for analysis, risk management, portfolio management and autonomous decisions.
-
-**Architecture**
-
-```text
-Market State
-     ↓
-Market Analyst
-     ↓
-Risk Manager
-     ↓
-Investor
-     ↓
-AI Secretary
-     ↓
-Validation
-     ↓
-Order Execution
-```
-
-**Tech**
-
-`Python` `LangGraph` `Gemini API`
-
-**Core concepts**
-
-- Multi-Agent AI
-- Shared MarketState
-- Order Matching
-- Portfolio Management
-- Price Discovery
-- Structured JSON Decisions
-
-<br>
-
-<a href="https://github.com/harshaggarwal9?tab=repositories">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💼 Experience
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🟣 KeasBrain
-
-### Software Development Engineer Intern
-
-`May 2026 — July 2026`
-
-- Designed and deployed **FastAPI microservices**
-- Implemented **Redis caching**
-- Containerized services using **Docker**
-- Built **GitHub Actions CI/CD pipelines**
-- Developed a **RAG pipeline**
-- Deployed services on **AWS EC2**
-- Worked with Git-based code reviews and Agile practices
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🔵 Scasys
-
-### Full Stack Developer Intern
-
-`Jan 2026 — Mar 2026`
-
-- Developed backend services using **FastAPI**
-- Designed REST APIs with **async request handling**
-- Implemented **JWT authentication**
-- Built **WebSocket-based real-time communication**
-- Integrated **Razorpay payment processing**
-- Automated payment confirmation and notification workflows
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshaggarwal9&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=C9D1D9" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaggarwal9&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" width="40%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshaggarwal9&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4" width="60%" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshaggarwal9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="90%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshaggarwal9&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=FFFFFF" width="95%" />
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 🧩 600+
-
-**DSA Problems**
-
-LeetCode +  
-GeeksforGeeks
-
-</td>
-
-<td align="center" width="33%">
-
-### ☁️ OCI 2025
-
-**Generative AI Professional**
-
-Oracle Cloud  
-Infrastructure
-
-</td>
-
-<td align="center" width="33%">
-
-### 💼 JPMorgan
-
-**Software Engineering**
-
-Job Simulation /  
-Certificate
-
-</td>
-
-</tr>
-</table>
-
 </div>
 
 ---
@@ -444,9 +183,9 @@ Certificate
 <table>
 <tr>
 
-<td>
+<td align="center">
 
-🤖 **AI Systems**
+### 🤖 AI
 
 Agentic AI  
 RAG  
@@ -455,36 +194,25 @@ LangGraph
 
 </td>
 
-<td>
+<td align="center">
 
-⚙️ **Software**
+### ⚙️ Software
 
 Backend Architecture  
-Microservices  
 System Design  
+Microservices  
 Distributed Systems
 
 </td>
 
-<td>
+<td align="center">
 
-☁️ **Infrastructure**
+### ☁️ Cloud
 
 AWS  
 Docker  
 CI/CD  
 Scalable APIs
-
-</td>
-
-<td>
-
-🧠 **Problem Solving**
-
-DSA  
-Algorithms  
-Optimization  
-Competitive Programming
 
 </td>
 
@@ -531,28 +259,16 @@ Competitive Programming
 
 ---
 
-# 📈 Development Focus
-
-```text
-Backend Engineering     ████████████████████░  90%
-AI / LLM Systems        ███████████████████░░  85%
-System Design           ████████████████░░░░░  75%
-Cloud & DevOps          ███████████████░░░░░░  70%
-DSA & Problem Solving   ████████████████████░  90%
-```
-
----
-
 # 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/harshaggarwal9">
-<img src="https://img.shields.io/badge/GitHub-harshaggarwal9-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-harshaggarwal9-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/harsh-aggarwal">
-<img src="https://img.shields.io/badge/LinkedIn-Harsh%20Aggarwal-0A66C2?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/harsh-aggarwal-6aa4a8320/">
+<img src="https://img.shields.io/badge/LinkedIn-Harsh%20Aggarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:harshaggarwal935@gmail.com">
