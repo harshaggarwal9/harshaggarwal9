@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### Hi, I'm Harsh 👋
+### Hi, I'm Harsh 
 
 I'm a **Full Stack Developer & AI enthusiast** from **NIT Jaipur**.
 
